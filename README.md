@@ -32,4 +32,4 @@
 - 🤯 I can actually solve the Rubik Cube
 
 ---
-### Thanks for being here ❤️
+### Thanks for the visit 💙
