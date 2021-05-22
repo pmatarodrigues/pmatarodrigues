@@ -1,16 +1,22 @@
-<div align="center">
+<p align="center">
+    <a href="https://pmatarodrigues.com/" target="_blank">
+    <img src="https://img.shields.io/badge/website-%123456.svg?&style=for-the-badge&logo=Website&logoColor=white&color=071A2C" alt="Website"/>
+  </a>
+  <a href="https://blog.pmatarodrigues.com/" target="_blank">
+    <img src="https://img.shields.io/badge/blog-%123456.svg?&style=for-the-badge&logo=blog&logoColor=white&color=071A2C" alt="Blog"/>
+  </a>
+  <a href="https://twitter.com/pmatarodrigues" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pmatarodrigues" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+</p>
 
-![wordart](https://user-images.githubusercontent.com/37421912/119209970-b854d380-baa1-11eb-9e8b-4d3c9866eece.png)
-  
-| ![world1](https://user-images.githubusercontent.com/37421912/119210263-2fd73280-baa3-11eb-8915-72abf729aa02.gif) | ![gbread](https://user-images.githubusercontent.com/37421912/119210306-7331a100-baa3-11eb-8378-d2547fb7c9f0.gif) | ![eyes](https://user-images.githubusercontent.com/37421912/119210508-6d888b00-baa4-11eb-8f17-4581ef4169be.gif) |
-| --------  | -------- | -------- |
-| [Visit my website](https://pmatarodrigues.com)  | [Read my blog](https://blog.pmatarodrigues.com)  | [Follow me on Twitter](https://twitter.com/pmatarodrigues)  |
 
-![star](https://user-images.githubusercontent.com/37421912/119210616-0e774600-baa5-11eb-92b5-3f32ea848548.gif)
-Ccurrently studying and working as a Software Developer. 
-![star](https://user-images.githubusercontent.com/37421912/119210616-0e774600-baa5-11eb-92b5-3f32ea848548.gif)
-  
-</div>
+## Hey there, I'm [Pedro](https://pmatarodrigues.com/)
+### I'm currently studying and working as a Software Developer.  <img align="right" src="https://user-images.githubusercontent.com/37421912/119211505-7a0fe200-baaa-11eb-847e-d56f793ed1b5.gif" alt="Programmation" width="300" />
+
 
 #### Now
 - 📚 Working on my master thesis.
@@ -23,11 +29,4 @@ Ccurrently studying and working as a Software Developer.
 - 👀 Data privacy advocate and the only person in the world that reads the Privacy Policy
 - 🧑‍🤝‍🧑 Trying to increase my contribute to the open-source world
 - 🧠 Ready to learn about anything
-- 🤯 Rubik Cube solver
-- 💙 Hater of 90s web design (the reason why this Readme looks like this)
-
-<div align="center">
-
-  ![aemail9](https://user-images.githubusercontent.com/37421912/119210750-e5a38080-baa5-11eb-95c7-508a81608dfd.gif)
- 
-</div>
+- 🤯 Can solve Rubik Cube
