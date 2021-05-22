@@ -30,3 +30,6 @@
 - 🧑‍🤝‍🧑 Increasing contribute to the open-source world
 - 🧠 Ready to learn about anything
 - 🤯 I can actually solve the Rubik Cube
+
+---
+### Thanks for being here ❤️
