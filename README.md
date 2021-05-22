@@ -21,12 +21,12 @@
 #### Now
 - 📚 Working on my master thesis.
 - 💻 Building Livestore (online streaming service for stores)
+- 💻 Building AirFinance (finance tracking and management tool)
 - 📝 Writing about technology at [SPEC](https://bespec.pt)
-- 💻 Also building AirFinance (finance tracking and management tool)
 
 #### About
-- 🧰 Mostly work with `.js`, `.jsx`, `.go`, `.py`, `.java`, `.html`, `.css`, `.psd`, `.ai`
+- 🧰 Mostly working with `.js`, `.jsx`, `.go`, `.py`, `.java`, `.html`, `.css`, `.psd`, `.ai`
 - 👀 Data privacy advocate and the only person in the world that reads the Privacy Policy
-- 🧑‍🤝‍🧑 Trying to increase my contribute to the open-source world
+- 🧑‍🤝‍🧑 Increasing contribute to the open-source world
 - 🧠 Ready to learn about anything
-- 🤯 Can solve Rubik Cube
+- 🤯 I can actually solve the Rubik Cube
