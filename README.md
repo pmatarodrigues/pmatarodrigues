@@ -14,22 +14,23 @@
 </p>
 
 
-## Hey there, I'm [Pedro](https://pmatarodrigues.com/)
-### I'm currently studying and working as a Software Developer.  <img align="right" src="https://user-images.githubusercontent.com/37421912/119211505-7a0fe200-baaa-11eb-847e-d56f793ed1b5.gif" alt="Programmation" width="300" />
+## Hey there, I'm [Pedro](https://pmatarodrigues.com/)!
+### I'm currently working as a Software Developer and studying.  <img align="right" src="https://user-images.githubusercontent.com/37421912/119223687-af402280-baf2-11eb-8e0d-dcd7e5d0fac0.gif" alt="Programmation" width="350" />
+
 
 
 #### Now
 - 📚 Working on my master thesis.
-- 💻 Building Livestore (online streaming service for stores)
-- 💻 Building AirFinance (finance tracking and management tool)
-- 📝 Writing about technology at [SPEC](https://bespec.pt)
+- 💻 Building Livestore (online streaming service for stores).
+- 💻 Building AirFinance (finance tracking and management tool).
+- 📝 Writing about open-source, privacy and software development at [SPEC](https://bespec.pt).
 
 #### About
-- 🧰 Mostly working with `.js`, `.jsx`, `.go`, `.py`, `.java`, `.html`, `.css`, `.psd`, `.ai`
-- 👀 Data privacy advocate and the only person in the world that reads the Privacy Policy
-- 🧑‍🤝‍🧑 Increasing contribute to the open-source world
-- 🧠 Ready to learn about anything
-- 🤯 I can actually solve the Rubik Cube
+- 🧰 Mostly working with `.js`, `.jsx`, `.go`, `.py`, `.java`, `.html`, `.css`, `.psd`, `.ai`.
+- 👀 Data privacy advocate and the only person in the world that reads the Privacy Policy.
+- 🧑‍🤝‍🧑 Increasing contribute to the open-source world.
+- 🧠 Ready to learn about anything.
+- 🤯 I can actually solve the Rubik Cube.
 
 ---
 ### Thanks for the visit 💙
