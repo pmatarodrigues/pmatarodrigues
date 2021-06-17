@@ -30,7 +30,7 @@
 - 👀 Data privacy advocate and the only person in the world that reads the Privacy Policy.
 - 🧑‍🤝‍🧑 Increasing contribute to the open-source world.
 - 🧠 Ready to learn about anything.
-- 🤯 I can actually solve the Rubik Cube.
+- 🤯 Rubik Cube solver.
 
 ---
 ### Thanks for the visit 💙
