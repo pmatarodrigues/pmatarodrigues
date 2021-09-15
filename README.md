@@ -23,13 +23,12 @@
 - 📚 Working on my master thesis.
 - 💻 Building Livestore (online streaming service for stores).
 - 💻 Building AirFinance (finance tracking and management tool).
-- 📝 Writing about open-source, privacy and software development at [SPEC](https://bespec.pt).
+- 📝 Writing about open-source, privacy and software development at [Updated](https://updated.pt).
 
 #### About
 - 🧰 Mostly working with `.js`, `.jsx`, `.go`, `.py`, `.java`, `.html`, `.css`, `.psd`, `.ai`.
-- 👀 Data privacy advocate and the only person in the world that reads the Privacy Policy.
-- 🧑‍🤝‍🧑 Increasing contribute to the open-source world.
-- 🧠 Ready to learn about anything.
+- 👀 Data privacy advocate and the only person in the world who reads the Privacy Policy.
+- 🧑‍🤝‍🧑 Linux Fanboy.
 - 🤯 Rubik Cube solver.
 
 ---
