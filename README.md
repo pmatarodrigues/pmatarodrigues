@@ -15,18 +15,10 @@
 
 
 ## Hey there, I'm [Pedro](https://pmatarodrigues.com/)!
-### I'm currently working as a Software Developer and studying.  <img align="right" src="https://user-images.githubusercontent.com/37421912/119223687-af402280-baf2-11eb-8e0d-dcd7e5d0fac0.gif" alt="Programmation" width="350" />
+### <img align="right" src="https://user-images.githubusercontent.com/37421912/119223687-af402280-baf2-11eb-8e0d-dcd7e5d0fac0.gif" alt="Programmation" width="350" />
 
-
-
-#### Now
-- 📚 Working on my master thesis.
-- 💻 Building Livestore (online streaming service for stores).
-- 💻 Building AirFinance (finance tracking and management tool).
-- 📝 Writing about open-source, privacy and software development at [Updated](https://updated.pt).
 
 #### About
-- 🧰 Mostly working with `.js`, `.jsx`, `.go`, `.py`, `.java`, `.html`, `.css`, `.psd`, `.ai`.
 - 👀 Data privacy advocate and the only person in the world who reads the Privacy Policy.
 - 🧑‍🤝‍🧑 Linux Fanboy.
 - 🤯 Rubik Cube solver.
