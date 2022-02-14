@@ -5,9 +5,6 @@
   <a href="https://blog.pmatarodrigues.com/" target="_blank">
     <img src="https://img.shields.io/badge/blog-%123456.svg?&style=for-the-badge&logo=blog&logoColor=white&color=071A2C" alt="Blog"/>
   </a>
-  <a href="https://twitter.com/pmatarodrigues" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
   <a href="https://www.linkedin.com/in/pmatarodrigues" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
