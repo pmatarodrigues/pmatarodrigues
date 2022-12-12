@@ -16,7 +16,6 @@
 
 #### Now
 - Software Engineer
-- `.rb`, `.js`, `.go`, `.sh`
 
 #### Interests
 - 🧑‍🤝‍🧑 Linux.
